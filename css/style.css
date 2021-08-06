@@ -192,6 +192,14 @@ ul.icon img {
 	margin-top: 30px;
 }
 
+#contents img {
+	display: block;
+	margin: 0 auto;
+	width: 640px;
+	height: 800px;
+	padding-bottom: 20px;
+}
+
 /*list（トップページやServiceページで使っている横長ブロック）
 ---------------------------------------------------------------------------*/
 /*ボックスの設定*/
@@ -345,7 +353,7 @@ footer .pr {display: block;}
 }
 /*左側ボックス*/
 .ta1 th {
-	width: 150px;	/*幅*/
+	width: 250px;	/*幅*/
 	text-align: center;	/*センタリング*/
 	font-weight: normal;
 }
