@@ -17,7 +17,7 @@ body {
 	font-size: 16px;	/*文字サイズ*/
 	line-height: 2;		/*行間*/
 	color: #666;		/*文字色*/
-	background: #fff;	/*背景色*/
+	background: black ;	/*背景色*/
 	-webkit-text-size-adjust: none;
 }
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form,select,textarea,input {margin: 0px;padding: 0px;font-size: 100%;font-weight: normal;}
@@ -72,7 +72,7 @@ header #logo img {
 #menubar li a, .ddmenu-title {
 	display: block;text-decoration: none;
 	color: #fff;	/*文字色*/
-	padding: 0px 20px;	/*上下、左右へのメニュー内の余白*/
+	padding: 0px 12px;	/*上下、左右へのメニュー内の余白*/
 	line-height: 50px;	/*行間。headerのheightと数字を合わせる。*/
 }
 /*マウスオン時の背景色*/
@@ -126,7 +126,7 @@ ul.icon {
 	float: right;	/*アイコンブロックを右に回り込み*/
 	margin-right: 20px;	/*右側に空けるスペース*/
 }
-/*アイコン１個あたりの設定*/
+/*アイコン１個あたりの設定*/f
 ul.icon li {
 	display: inline-block;	/*横並びにさせる指定*/
 	padding-top: 10px;		/*上に空ける余白。header内の上下の配置バランスをここでとって下さい。*/
@@ -143,6 +143,8 @@ ul.icon img {
 #contents {
 	margin-top: 50px;	/*上に空ける余白。headerとの間に空けたいスペースを調整して下さい*/
 	padding: 3%;		/*コンテンツ内の余白*/
+
+	background: white;
 }
 /*トップページのコンテンツへの追加指定*/
 .home #contents {
