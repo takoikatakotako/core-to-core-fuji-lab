@@ -263,7 +263,7 @@ footer {
 	text-align: center;
 	font-size: 90%;		/*文字サイズ*/
 	color: #fff;			/*文字色*/
-	padding-top: 12px;
+	padding-top: 8px;
 }
 footer a {color: #fff;}
 footer a:hover {color: #fff;}
