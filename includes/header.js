@@ -11,6 +11,8 @@ const header = `
             <li><a href="collaboration-work.html">Collaboration Works</a></li>
             <li><a href="research-exchange.html">Research Exchange</a></li>
             <li><a href="links.html">Links</a></li>
+            <li><a href="links.html"><img src="images/tech-logo.jpg"></a></li>
+            <li><a href="links.html"><img src="images/wrhi-logo.png"></a></li>
         </ul>
     </nav>
     <!--小さい端末用（900px以下端末）メニュー-->

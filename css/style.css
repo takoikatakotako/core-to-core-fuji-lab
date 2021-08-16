@@ -75,6 +75,13 @@ header #logo img {
 	padding: 0px 12px;	/*上下、左右へのメニュー内の余白*/
 	line-height: 50px;	/*行間。headerのheightと数字を合わせる。*/
 }
+
+#menubar li a img, .ddmenu-title {
+	width: 36px;
+	height: 36px;
+}
+
+
 /*マウスオン時の背景色*/
 #menubar li a:hover {
 	background: #5ead00 !important;
