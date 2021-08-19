@@ -10,7 +10,7 @@ const header = `
             <li><a href="collaboration.html">Collaboration</a></li>
             <li><a href="research-exchange.html">Research Exchange</a></li>
             <li><a href="links.html">Links</a></li>
-            <li><a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener noreferrer"><img src="images/jsps-logo.jpeg"></a></li>
+            <li><a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener noreferrer"><img src="images/jsps-logo.png"></a></li>
             <li><a href="https://www.titech.ac.jp/english" target="_blank" rel="noopener noreferrer"><img src="images/tokyo-tech-logo.png"></a></li>
             <li><a href="https://www.wrhi.iir.titech.ac.jp/en/" target="_blank" rel="noopener noreferrer"><img src="images/wrhi-logo.png"></a></li>
         </ul>
