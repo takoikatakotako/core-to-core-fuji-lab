@@ -12,7 +12,7 @@ const header = `
             <li><a href="links.html">Links</a></li>
             <li><a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener noreferrer"><img src="images/jsps-logo.png"></a></li>
             <li><a href="https://www.titech.ac.jp/english" target="_blank" rel="noopener noreferrer"><img src="images/tokyo-tech-logo.png"></a></li>
-            <li><a href="https://www.wrhi.iir.titech.ac.jp/en/" target="_blank" rel="noopener noreferrer"><img src="images/wrhi-logo.png"></a></li>
+            <li><a><img src="images/wrhi-logo.png"></a></li>
         </ul>
     </nav>
     <!--小さい端末用（900px以下端末）メニュー-->
@@ -27,7 +27,6 @@ const header = `
             <li><a href="links.html">Links</a></li>
             <li><a href="https://www.jsps.go.jp/english/" target="_blank" rel="noopener noreferrer">JSPS</a></li>
             <li><a href="https://www.titech.ac.jp/english" target="_blank" rel="noopener noreferrer">Tokyo Institute of Technology</a></li>
-            <li><a href="https://www.wrhi.iir.titech.ac.jp/en/" target="_blank" rel="noopener noreferrer">WRHI</a></li>
         </ul>
     </nav>
 </header>
